@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/fast-file-io.iml" filepath="$PROJECT_DIR$/fast-file-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fast_file_io.iml" filepath="$PROJECT_DIR$/fast_file_io.iml" />
     </modules>
   </component>
 </project>
